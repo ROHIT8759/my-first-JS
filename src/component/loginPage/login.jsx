@@ -13,7 +13,7 @@ const login = () => {
             <FaUserAlt className = 'icon' />
         </div>
         <div className="input-box">
-            <input type = 'text' placeholder= 'Password' required></input>
+            <input type = 'password' placeholder= 'Password' required></input>
             <FaLock className = 'icon'/>
         </div>
         <div className="remember_forgate">
